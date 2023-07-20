@@ -38,36 +38,36 @@ const About = () => {
                 <li>
                   <h6>
                     <span className="font-weight-600">First Name</span>
-                    Daria
+                    Yasith Eranda
                   </h6>
                 </li>
                 <li>
                   <h6>
                     <span className="font-weight-600">Last Name</span>
-                    Taylor
+                    Yapa Amarasekara
                   </h6>
                 </li>
                 <li>
                   <h6>
-                    <span className="font-weight-600">Birthdate</span>21 june
-                    1990
+                    <span className="font-weight-600">Birthdate</span>08 july
+                    1998
                   </h6>
                 </li>
                 <li>
                   <h6>
                     <span className="font-weight-600">Nationality</span>
-                    English
+                    Sinhala
                   </h6>
                 </li>
                 <li>
                   <h6>
-                    <span className="font-weight-600">Experience</span>7 years
+                    <span className="font-weight-600">Experience</span>6 years
                   </h6>
                 </li>
                 <li>
                   <h6>
                     <span className="font-weight-600">Address</span>
-                    Istanbul
+                    Galle, Sri Lanka
                   </h6>
                 </li>
               </ul>
@@ -83,31 +83,31 @@ const About = () => {
                 <li>
                   <h6>
                     <span className="font-weight-600">Langages</span>
-                    English
+                    English/Sinhala
                   </h6>
                 </li>
                 <li>
                   <h6>
-                    <span className="font-weight-600">Phone</span>+34 21 18 40
-                    10
+                    <span className="font-weight-600">Phone</span>+94 78 855
+                    6588
                   </h6>
                 </li>
                 <li>
                   <h6>
                     <span className="font-weight-600">Email</span>
-                    you@you.com
+                    info@yasitheranda.me
                   </h6>
                 </li>
                 <li>
                   <h6>
-                    <span className="font-weight-600">Skype</span>
-                    daria.taylor
+                    <span className="font-weight-600">linkedin.com</span>
+                    yasith-eranda-yapa-amarasekara
                   </h6>
                 </li>
                 <li>
                   <h6>
-                    <span className="font-weight-600">Dribbble</span>
-                    taylor.dribbble
+                    <span className="font-weight-600">GitHub</span>
+                    yashEra
                   </h6>
                 </li>
               </ul>
@@ -147,45 +147,20 @@ const About = () => {
                       <span className="year">
                         <i className="fa fa-calendar" />
                         <i className="fa fa-caret-right" />
-                        2017 - 2019
-                      </span>
-                      <span className="d-block font-weight-400 uppercase">
-                        web designer
-                        <span className="separator" />
-                        <span className="font-weight-700">Envato</span>
-                      </span>
-                    </div>
-                    <div className="card-body">
-                      <p>
-                        Lorem ipsum dolor sit amet, consectetuer adipiscing
-                        elit, sed diam nonummy nibh euismod tincidunt ut laoreet
-                        diam nonummy.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-                {/* Item Ends */}
-                {/* Item Starts */}
-                <div className="item">
-                  <span className="bullet" />
-                  <div className="card">
-                    <div className="card-header">
-                      <span className="year">
-                        <i className="fa fa-calendar" />
-                        <i className="fa fa-caret-right" />
-                        2014 - 2017
+                        2020 - Present
                       </span>
                       <span className="d-block font-weight-400 uppercase">
                         web developer
                         <span className="separator" />
-                        <span className="font-weight-700">Twitter</span>
+                        <span className="font-weight-700">Freelance</span>
                       </span>
                     </div>
                     <div className="card-body">
                       <p>
-                        Lorem ipsum dolor sit amet, consectetuer adipiscing
-                        elit, sed diam nonummy nibh euismod tincidunt ut laoreet
-                        diam nonummy.
+                        Experienced web developer since 2020, proficient in
+                        front-end and back-end technologies, creating innovative
+                        and user-friendly web solutions to meet diverse client
+                        needs.
                       </p>
                     </div>
                   </div>
@@ -199,19 +174,46 @@ const About = () => {
                       <span className="year">
                         <i className="fa fa-calendar" />
                         <i className="fa fa-caret-right" />
-                        2010 - 2014
+                        2018 - Present
                       </span>
                       <span className="d-block font-weight-400 uppercase">
-                        Consultant
+                        Graphic Designer, UI/UX Designer
                         <span className="separator" />
-                        <span className="font-weight-700">Google</span>
+                        <span className="font-weight-700">Freelance</span>
                       </span>
                     </div>
                     <div className="card-body">
                       <p>
-                        Lorem ipsum dolor sit amet, consectetuer adipiscing
-                        elit, sed diam nonummy nibh euismod tincidunt ut laoreet
-                        diam nonummy.
+                        I'm creating graphic designs since 2018 as one of my
+                        careers. The knowledge I gain from my experience will
+                        help me to create fantastic designs for my clients.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                {/* Item Ends */}
+                {/* Item Starts */}
+                <div className="item">
+                  <span className="bullet" />
+                  <div className="card">
+                    <div className="card-header">
+                      <span className="year">
+                        <i className="fa fa-calendar" />
+                        <i className="fa fa-caret-right" />
+                        2018 - Present
+                      </span>
+                      <span className="d-block font-weight-400 uppercase">
+                        Video Editor, Motion Graphic Designer
+                        <span className="separator" />
+                        <span className="font-weight-700">Freelance</span>
+                      </span>
+                    </div>
+                    <div className="card-body">
+                      <p>
+                        I'm a well-experienced video editor & motion graphic
+                        designer since 2018, who pleased my clients very well.
+                        Every project I have done, I learn so much new. I'm very
+                        happy to use them for my future projects.
                       </p>
                     </div>
                   </div>
@@ -234,21 +236,21 @@ const About = () => {
                       <span className="year">
                         <i className="fa fa-calendar" />
                         <i className="fa fa-caret-right" />
-                        2007 - 2010
+                        2021 - 2025
                       </span>
                       <span className="d-block font-weight-400 uppercase">
-                        Engineering Degree
+                        Computer Science and Technology
                         <span className="separator" />
                         <span className="font-weight-700">
-                          Istanbul University
+                          Uva Wellassa University of Sri Lanka
                         </span>
                       </span>
                     </div>
                     <div className="card-body">
                       <p>
-                        Lorem ipsum dolor sit amet, consectetuer adipiscing
-                        elit, sed diam nonummy nibh euismod tincidunt ut laoreet
-                        diam nonummy.
+                        Undergraduate of Bachelor of Science (BSc) in Computer
+                        Science and Technology, Uva Wellassa University of Sri
+                        Lanka
                       </p>
                     </div>
                   </div>
@@ -262,21 +264,22 @@ const About = () => {
                       <span className="year">
                         <i className="fa fa-calendar" />
                         <i className="fa fa-caret-right" />
-                        2005 - 2007
+                        2020 - 2025
                       </span>
                       <span className="d-block font-weight-400 uppercase">
-                        Masters Degree
+                        Bachelor of Information Technology
                         <span className="separator" />
                         <span className="font-weight-700">
-                          Paris University
+                          University of Colombo School of Computing
                         </span>
                       </span>
                     </div>
                     <div className="card-body">
                       <p>
-                        Lorem ipsum dolor sit amet, consectetuer adipiscing
-                        elit, sed diam nonummy nibh euismod tincidunt ut laoreet
-                        diam nonummy.
+                        Pursuing a BIT degree at the School of Computing,
+                        University of Colombo, with a passion for technology,
+                        problem-solving, and seeking to excel in the field of
+                        computer science.
                       </p>
                     </div>
                   </div>
@@ -290,21 +293,22 @@ const About = () => {
                       <span className="year">
                         <i className="fa fa-calendar" />
                         <i className="fa fa-caret-right" />
-                        2001 - 2005
+                        2004 - 2018
                       </span>
                       <span className="d-block font-weight-400 uppercase">
-                        Bachelor Degree
+                        GCE A/L
                         <span className="separator" />
                         <span className="font-weight-700">
-                          Moscow High School
+                          Siridhamma Collage
                         </span>
                       </span>
                     </div>
                     <div className="card-body">
                       <p>
-                        Lorem ipsum dolor sit amet, consectetuer adipiscing
-                        elit, sed diam nonummy nibh euismod tincidunt ut laoreet
-                        diam nonummy.
+                        Completed GCE Advanced Level with a focus on Physical
+                        Science at Siridhamma College, demonstrating strong
+                        academic aptitude and a keen interest in the principles
+                        of physics and related fields.
                       </p>
                     </div>
                   </div>
@@ -372,15 +376,15 @@ const About = () => {
             {/* Skill Bar Ends */}
             {/* Skill Bar Starts */}
             <div className="col-12 col-sm-6 col-md-4">
-              <span className="skill-text">jquery</span>
+              <span className="skill-text">PHP</span>
               <div className="chart-bar">
                 <span
                   className="item-progress"
-                  data-percent={65}
-                  style={{ width: "65%" }}
+                  data-percent={60}
+                  style={{ width: "60%" }}
                 />
-                <span className="percent" style={{ right: "calc(35% - 21px)" }}>
-                  65%
+                <span className="percent" style={{ right: "calc(40% - 21px)" }}>
+                  60%
                   <b className="arrow" />
                 </span>
               </div>
@@ -404,15 +408,47 @@ const About = () => {
             {/* Skill Bar Ends */}
             {/* Skill Bar Starts */}
             <div className="col-12 col-sm-6 col-md-4">
-              <span className="skill-text">angular js</span>
+              <span className="skill-text">React js</span>
               <div className="chart-bar">
                 <span
                   className="item-progress"
-                  data-percent={85}
-                  style={{ width: "85%" }}
+                  data-percent={60}
+                  style={{ width: "60%" }}
                 />
-                <span className="percent" style={{ right: "calc(15% - 21px)" }}>
-                  85%
+                <span className="percent" style={{ right: "calc(40% - 21px)" }}>
+                  60%
+                  <b className="arrow" />
+                </span>
+              </div>
+            </div>
+            {/* Skill Bar Ends */}
+                        {/* Skill Bar Starts */}
+                        <div className="col-12 col-sm-6 col-md-4">
+              <span className="skill-text">Express js</span>
+              <div className="chart-bar">
+                <span
+                  className="item-progress"
+                  data-percent={40}
+                  style={{ width: "40%" }}
+                />
+                <span className="percent" style={{ right: "calc(60% - 21px)" }}>
+                  40%
+                  <b className="arrow" />
+                </span>
+              </div>
+            </div>
+            {/* Skill Bar Ends */}
+                        {/* Skill Bar Starts */}
+                        <div className="col-12 col-sm-6 col-md-4">
+              <span className="skill-text">java</span>
+              <div className="chart-bar">
+                <span
+                  className="item-progress"
+                  data-percent={60}
+                  style={{ width: "60%" }}
+                />
+                <span className="percent" style={{ right: "calc(40% - 21px)" }}>
+                  60%
                   <b className="arrow" />
                 </span>
               </div>
@@ -424,11 +460,11 @@ const About = () => {
               <div className="chart-bar">
                 <span
                   className="item-progress"
-                  data-percent={60}
-                  style={{ width: "60%" }}
+                  data-percent={90}
+                  style={{ width: "90%" }}
                 />
-                <span className="percent" style={{ right: "calc(40% - 21px)" }}>
-                  60%
+                <span className="percent" style={{ right: "calc(10% - 21px)" }}>
+                  90%
                   <b className="arrow" />
                 </span>
               </div>
@@ -456,6 +492,22 @@ const About = () => {
               <div className="chart-bar">
                 <span
                   className="item-progress"
+                  data-percent={95}
+                  style={{ width: "95%" }}
+                />
+                <span className="percent" style={{ right: "calc(5% - 21px)" }}>
+                  95%
+                  <b className="arrow" />
+                </span>
+              </div>
+            </div>
+            {/* Skill Bar Ends */}
+                        {/* Skill Bar Starts */}
+            <div className="col-12 col-sm-6 col-md-4">
+              <span className="skill-text">Premiere Pro</span>
+              <div className="chart-bar">
+                <span
+                  className="item-progress"
                   data-percent={80}
                   style={{ width: "80%" }}
                 />
@@ -466,8 +518,10 @@ const About = () => {
               </div>
             </div>
             {/* Skill Bar Ends */}
+
           </div>
           {/* Skills Starts */}
+
         </div>
         {/* Resume Ends */}
       </div>
