@@ -100,7 +100,7 @@ const About = () => {
                 </li>
                 <li>
                   <h6>
-                    <span className="font-weight-600">linkedin.com</span>
+                    <span className="font-weight-600">linkedin</span>
                     yasith-eranda-yapa-amarasekara
                   </h6>
                 </li>
