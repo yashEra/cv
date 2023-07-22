@@ -8,7 +8,7 @@ const Demo = () => {
   return (
     <Fragment>
       <Head>
-        <title>Istanbul - Choose your demo</title>
+        <title>Yasith Eranda</title>
         <link href="demo/assets/css/bootstrap.min.css" rel="stylesheet" />
         <link
           href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900"
@@ -23,7 +23,7 @@ const Demo = () => {
       </Head>
       <section className="banner text-center">
         <div className="content">
-          <h1>Istanbul</h1>
+          <h1>Yasith Eranda</h1>
           <h2>Personal Portfolio</h2>
         </div>
       </section>
@@ -226,15 +226,15 @@ const Demo = () => {
       </section>
       <footer>
         <div className="text-center footer_copyright">
-          <h6>Istanbul - Personal Portfolio</h6>
+          <h6>Yasith Eranda - Personal Portfolio</h6>
           <h5>
             Designed with <span className="heart">❤</span> by{" "}
             <a
               target="_blank"
               rel="noreferrer"
-              href="http://themeforest.net/user/codeefly/"
+              href="#"
             >
-              Codeefly
+              Yasith Eranda
             </a>
           </h5>
         </div>
