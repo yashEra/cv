@@ -30,6 +30,7 @@ const Layouts = ({ children, bodyCls, extraPage, light }) => {
           href={`css/skins/${color}.css`}
           rel="stylesheet"
         />{" "}
+        <link rel='icon' href='../../../img/favicon.ico'/>
         <title>Yasith Eranda</title>
       </Head>
       <div className="page animated" style={{ animationDuration: "500ms" }}>

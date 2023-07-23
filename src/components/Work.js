@@ -43,21 +43,21 @@ const workData = [
   },
   {
     img: "img/projects/project-4.jpg",
-    name: "CST LAN CHALLANGE",
+    name: "CST LAN CHALLENGE",
     format: "img",
     project: "WEBSITE",
-    client: "CST LAN CHALLANGE",
+    client: "CST LAN CHALLENGE",
     duration: "2 WEEKS",
     technologies: ["WORDPRESS"],
-    budget: "",
+    budget: "N/A",
     link: "http://cstlanchallenge.online/"
   },
   {
     img: "img/projects/project-5.jpg",
-    name: "ROTRACT",
+    name: "ROTARACT",
     format: "img",
     project: "WEBSITE",
-    client: "ROTRACT",
+    client: "ROTARACT",
     duration: "3 MONTHS",
     technologies: ["WORDPRESS"],
     budget: "N/A",
@@ -79,23 +79,25 @@ const workData = [
   },
   {
     img: "img/projects/project-7.jpg",
-    name: "Image Format",
+    name: "CV Design",
     format: "img",
-    project: "WEBSITE",
-    client: "ENVATO",
-    duration: "3 MONTHS",
-    technologies: ["HTML", "JAVASCRIPT"],
-    budget: "1550 USD",
+    project: "DESIGN",
+    client: "HELASCRIPT",
+    duration: "2 WEEKS",
+    technologies: ["ADOBE ILLUSTRATOR"],
+    budget: "10000LKR",
+    link:"https://yasitheranda.me/project/diseno-grafico-elementor/",
   },
   {
     img: "img/projects/project-8.jpg",
-    name: "Image Format",
+    name: "LOGO DESIGN AND LOGO ANIMATION",
     format: "img",
-    project: "WEBSITE",
-    client: "ENVATO",
-    duration: "3 MONTHS",
-    technologies: ["HTML", "JAVASCRIPT"],
-    budget: "1550 USD",
+    project: "DESIGN",
+    client: "IDEA3SIXTY",
+    duration: "1 WEEK",
+    technologies: ["ADOBE ILLUSTRATOR", "ADOBE AFTER EFFECTS"],
+    budget: "N/A",
+    link:"https://yasitheranda.me/project/logo-design/",
   },
   // {
   //   img: "img/projects/project-9.jpg",
@@ -246,7 +248,7 @@ const Work = () => {
                     </span>
                   </li>
                 </ul>
-                <a href={work.link} className="btn" target="_blank">
+                <a href={work.link} className="btn" rel="noopener" target="blank">
                   <span>
                     <i className="fa fa-external-link" />
                     preview

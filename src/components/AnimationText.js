@@ -9,7 +9,7 @@ const AnimationText = () => {
           "Yasith Eranda",
           "a Web Developer",
           "a Graphic Designer",
-          "a Motion Graphic Designer",
+          "a Video Editor",
           "a freelancer",
         ]}
       />

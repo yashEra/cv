@@ -26,10 +26,12 @@ const About = () => {
               />
             </div>
             <p className="d-block d-md-none">
-              {`I'm`} a Freelance UI/UX Designer and Developer based in Galle,
-              Sri Lanka. I strives to build immersive and beautiful web
-              applications through carefully crafted code and user-centric
-              design.
+              An experienced creative professional in Graphic Designing, UI/UX,
+              Motion Graphic Design, and Web Development since 2018. Dedicated
+              to delivering innovative designs, merging creativity with
+              technical expertise for engaging user experiences. Passionate
+              about pushing design boundaries to create exceptional, lasting
+              impressions.
             </p>
           </div>
           <div className="row col-xl-6 col-lg-6 col-md-12">
@@ -184,7 +186,7 @@ const About = () => {
                     </div>
                     <div className="card-body">
                       <p>
-                        I'm creating graphic designs since 2018 as one of my
+                        {"I'm"} creating graphic designs since 2018 as one of my
                         careers. The knowledge I gain from my experience will
                         help me to create fantastic designs for my clients.
                       </p>
@@ -210,10 +212,10 @@ const About = () => {
                     </div>
                     <div className="card-body">
                       <p>
-                        I'm a well-experienced video editor & motion graphic
+                        {"I'm"} a well-experienced video editor & motion graphic
                         designer since 2018, who pleased my clients very well.
-                        Every project I have done, I learn so much new. I'm very
-                        happy to use them for my future projects.
+                        Every project I have done, I learn so much new. {"I'm"}{" "}
+                        very happy to use them for my future projects.
                       </p>
                     </div>
                   </div>
@@ -318,6 +320,387 @@ const About = () => {
             </div>
             {/* Education Ends */}
           </div>
+
+          <div className="row" style={{ paddingTop: "45px" }}>
+            {/* Experience Starts */}
+            <div className="col-xl-6 col-lg-6 col-md-6">
+              <h2 className="font-weight-600 uppercase title-section">
+                other experience
+              </h2>
+              <div className="resume-items">
+                {/* Item Starts */}
+                <div className="item">
+                  <span className="bullet" />
+                  <div className="card">
+                    <div className="card-header">
+                      <span className="year">
+                        <i className="fa fa-calendar" />
+                        <i className="fa fa-caret-right" />
+                        2023 - 2024
+                      </span>
+                      <span className="d-block font-weight-400 uppercase">
+                        Creative content coodinator
+                        <span className="separator" />
+                        <span className="font-weight-700">
+                          IEEE IEEE Sri Lanka Section Student Activities
+                          Committee
+                        </span>
+                      </span>
+                    </div>
+                    <div className="card-body">
+                      <p>
+                        Creative Content Coordinator at IEEE SLSAC Collaborative
+                        Activity Sub Committee. Responsible for developing
+                        engaging content and implementing content strategies for
+                        collaborative initiatives within the IEEE SLSAC.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                {/* Item Ends */}
+                <div className="item">
+                  <span className="bullet" />
+                  <div className="card">
+                    <div className="card-header">
+                      <span className="year">
+                        <i className="fa fa-calendar" />
+                        <i className="fa fa-caret-right" />
+                        2023 - 2024
+                      </span>
+                      <span className="d-block font-weight-400 uppercase">
+                        IEEEXtreme 17.0 Ambassador
+                        <span className="separator" />
+                        <span className="font-weight-700">
+                          UVA WELLASSA UNIVERSITY OF SRI LANKA
+                        </span>
+                      </span>
+                    </div>
+                    <div className="card-body">
+                      <p>
+                        IEEEXtreme is an annual global programming competition
+                        organized by IEEE, unique and highly challenging coding
+                        competition designed to test the problem-solving skills,
+                        algorithmic thinking, and teamwork capabilities of
+                        participating teams.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                {/* Item Starts */}
+                <div className="item">
+                  <span className="bullet" />
+                  <div className="card">
+                    <div className="card-header">
+                      <span className="year">
+                        <i className="fa fa-calendar" />
+                        <i className="fa fa-caret-right" />
+                        2023 - 2024
+                      </span>
+                      <span className="d-block font-weight-400 uppercase">
+                        Assistant Editor
+                        <span className="separator" />
+                        <span className="font-weight-700">
+                          IEEE UVA WELLASSA UNIVERSITY STUDENT BRANCH
+                        </span>
+                      </span>
+                    </div>
+                    <div className="card-body">
+                      <p>
+                        As an Assistant Editor for the IEEE Uva Wellassa
+                        University Student Branch, your role involves
+                        contributing to the planning, production, and editing of
+                        various publications and communication materials related
+                        to IEEE activities and events.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                {/* Item Ends */}
+                {/* Item Starts */}
+                <div className="item">
+                  <span className="bullet" />
+                  <div className="card">
+                    <div className="card-header">
+                      <span className="year">
+                        <i className="fa fa-calendar" />
+                        <i className="fa fa-caret-right" />
+                        2023 - 2024
+                      </span>
+                      <span className="d-block font-weight-400 uppercase">
+                        Director of Public Relation and Digital Services
+                        <span className="separator" />
+                        <span className="font-weight-700">
+                          ROTARACT CLUB OF UVA WELLASSA UNIVERSITY - BADULLA
+                        </span>
+                      </span>
+                    </div>
+                    <div className="card-body">
+                      <p>
+                        As the Director of Public Relations and Digital Services
+                        at Rotaract Club of Uva Wellassa University - Badulla, I
+                        manage communications, promote activities, and enhance
+                        the {"club's"} online presence to engage members and the
+                        community effectively.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                {/* Item Ends */}
+                <div className="item">
+                  <span className="bullet" />
+                  <div className="card">
+                    <div className="card-header">
+                      <span className="year">
+                        <i className="fa fa-calendar" />
+                        <i className="fa fa-caret-right" />
+                        2023 - 2024
+                      </span>
+                      <span className="d-block font-weight-400 uppercase">
+                        Design Team
+                        <span className="separator" />
+                        <span className="font-weight-700">
+                          FOSS Community UVA WELLASSA UNIVERSITY - BADULLA
+                        </span>
+                      </span>
+                    </div>
+                    <div className="card-body">
+                      <p>
+                        As a member of the Design Team at FOSS Community Uva
+                        Wellassa University - Badulla, I collaborate on creating
+                        visually engaging and innovative designs to promote club
+                        acttivies, events and enhance the {"community's"} brand
+                        identity.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                {/* Item Starts */}
+                <div className="item">
+                  <span className="bullet" />
+                  <div className="card">
+                    <div className="card-header">
+                      <span className="year">
+                        <i className="fa fa-calendar" />
+                        <i className="fa fa-caret-right" />
+                        2015 - 2017
+                      </span>
+                      <span className="d-block font-weight-400 uppercase">
+                        President of College Quiz Club
+                        <span className="separator" />
+                        <span className="font-weight-700">
+                          Siridhamma Collage Galle
+                        </span>
+                      </span>
+                    </div>
+                    <div className="card-body">
+                      <p>
+                        As the President of the College Quiz Club at Siridhamma
+                        College, Galle, I lead the organization, oversee quiz
+                        events, and foster a competitive and intellectually
+                        stimulating environment to enhance {"students'"} knowledge
+                        and critical thinking skills.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                {/* Item Ends */}
+              </div>
+            </div>
+            {/* Experience Ends */}
+            {/* Education Starts */}
+            <div className="col-xl-6 col-lg-6 col-md-6 skills-container">
+              <h2 className="font-weight-600 uppercase title-section">
+                Volunteering
+              </h2>
+              <div className="resume-items">
+                {/* Item Starts */}
+                <div className="item">
+                  <span className="bullet" />
+                  <div className="card">
+                    <div className="card-header">
+                      <span className="year">
+                        <i className="fa fa-calendar" />
+                        <i className="fa fa-caret-right" />
+                        2023
+                      </span>
+                      <span className="d-block font-weight-400 uppercase">
+                        Project Chair
+                        <span className="separator" />
+                        <span className="font-weight-700">InovitroZ</span>
+                      </span>
+                    </div>
+                    <div className="card-body">
+                      <p>
+                        The Rotaract Club of Uva Wellassa University presents
+                        InovitroZ 2023, an exciting innovation program aimed
+                        at nurturing creativity and problem-solving skills among
+                        participants
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                {/* Item Ends */}
+                {/* Item Starts */}
+                <div className="item">
+                  <span className="bullet" />
+                  <div className="card">
+                    <div className="card-header">
+                      <span className="year">
+                        <i className="fa fa-calendar" />
+                        <i className="fa fa-caret-right" />
+                        2023
+                      </span>
+                      <span className="d-block font-weight-400 uppercase">
+                        Design Team Lead
+                        <span className="separator" />
+                        <span className="font-weight-700">IEEE Open Day</span>
+                      </span>
+                    </div>
+                    <div className="card-body">
+                      <p>
+                        IEEE Open Day 2023, organized by the IEEE Student Branch
+                        of Uva Wellassa University, offers a platform for
+                        aspiring technology enthusiasts to come together, learn,
+                        collaborate, and shape the future.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                {/* Item Ends */}
+                {/* Item Starts */}
+                <div className="item">
+                  <span className="bullet" />
+                  <div className="card">
+                    <div className="card-header">
+                      <span className="year">
+                        <i className="fa fa-calendar" />
+                        <i className="fa fa-caret-right" />
+                        2023
+                      </span>
+                      <span className="d-block font-weight-400 uppercase">
+                        Design Team Lead
+                        <span className="separator" />
+                        <span className="font-weight-700">
+                          CST LAN CHALLENGE
+                        </span>
+                      </span>
+                    </div>
+                    <div className="card-body">
+                      <p>
+                        The LAN Challenge is an annual gaming extravaganza,
+                        commemorating its fifth chapter in the year 2023. It is
+                        organized by the students of the Computer Science and
+                        Technology (CST) degree program within the Department of
+                        Computer Science and Informatics, Faculty of Applied
+                        Sciences, at Uva Wellassa University.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                {/* Item Ends */}
+                <div className="item">
+                  <span className="bullet" />
+                  <div className="card">
+                    <div className="card-header">
+                      <span className="year">
+                        <i className="fa fa-calendar" />
+                        <i className="fa fa-caret-right" />
+                        2023
+                      </span>
+                      <span className="d-block font-weight-400 uppercase">
+                        Design Team
+                        <span className="separator" />
+                        <span className="font-weight-700">CYBERZILLA 2.0</span>
+                      </span>
+                    </div>
+                    <div className="card-body">
+                      <p>
+                      The FOSS Community of Uva Wellassa University proudly presents Cyberzilla, the much-awaited second edition. Expect pure fun, knowledge, and exciting surprises to make this event unforgettable!
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                {/* Item Starts */}
+                <div className="item">
+                  <span className="bullet" />
+                  <div className="card">
+                    <div className="card-header">
+                      <span className="year">
+                        <i className="fa fa-calendar" />
+                        <i className="fa fa-caret-right" />
+                        2022
+                      </span>
+                      <span className="d-block font-weight-400 uppercase">
+                        Design Team Member
+                        <span className="separator" />
+                        <span className="font-weight-700">
+                          Impetus Magazine
+                        </span>
+                      </span>
+                    </div>
+                    <div className="card-body">
+                      <p>
+                      IMPETUS magazine launch by IEEE Uva Wellassa University Student Branch, showcasing tech insights, inspiring innovation, and empowering future leaders.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                {/* Item Ends */}
+                {/* Item Starts */}
+                <div className="item">
+                  <span className="bullet" />
+                  <div className="card">
+                    <div className="card-header">
+                      <span className="year">
+                        <i className="fa fa-calendar" />
+                        <i className="fa fa-caret-right" />
+                        2022
+                      </span>
+                      <span className="d-block font-weight-400 uppercase">
+                        Design Team Member
+                        <span className="separator" />
+                        <span className="font-weight-700">
+                          INSL Uva Provincial Competition
+                        </span>
+                      </span>
+                    </div>
+                    <div className="card-body">
+                      <p>
+                      As a member of the INSL 2022 Uva Provincial Competition organizing committee, I contributed to IEEE Uva Wellassa University Student {"Branch's"} successful event coordination.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                {/* Item Ends */}
+                <div className="item">
+                  <span className="bullet" />
+                  <div className="card">
+                    <div className="card-header">
+                      <span className="year">
+                        <i className="fa fa-calendar" />
+                        <i className="fa fa-caret-right" />
+                        2017
+                      </span>
+                      <span className="d-block font-weight-400 uppercase">
+                        President(Organizing Committee)
+                        <span className="separator" />
+                        <span className="font-weight-700">
+                          {"IDEA'17"} Inter School Quiz Competition
+                        </span>
+                      </span>
+                    </div>
+                    <div className="card-body">
+                      <p>
+                      {"IDEA'17"} was an island-wide quiz competition organized by Siridhamma College Quiz Club in 2017. It was engaging, challenging, and aimed at fostering knowledge-sharing among students.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            {/* Education Ends */}
+          </div>
+
           {/* Skills Starts */}
           <div className="row">
             {/* Skill Bar Starts */}
@@ -422,8 +805,8 @@ const About = () => {
               </div>
             </div>
             {/* Skill Bar Ends */}
-                        {/* Skill Bar Starts */}
-                        <div className="col-12 col-sm-6 col-md-4">
+            {/* Skill Bar Starts */}
+            <div className="col-12 col-sm-6 col-md-4">
               <span className="skill-text">Express js</span>
               <div className="chart-bar">
                 <span
@@ -438,8 +821,8 @@ const About = () => {
               </div>
             </div>
             {/* Skill Bar Ends */}
-                        {/* Skill Bar Starts */}
-                        <div className="col-12 col-sm-6 col-md-4">
+            {/* Skill Bar Starts */}
+            <div className="col-12 col-sm-6 col-md-4">
               <span className="skill-text">java</span>
               <div className="chart-bar">
                 <span
@@ -502,7 +885,7 @@ const About = () => {
               </div>
             </div>
             {/* Skill Bar Ends */}
-                        {/* Skill Bar Starts */}
+            {/* Skill Bar Starts */}
             <div className="col-12 col-sm-6 col-md-4">
               <span className="skill-text">Premiere Pro</span>
               <div className="chart-bar">
@@ -518,10 +901,8 @@ const About = () => {
               </div>
             </div>
             {/* Skill Bar Ends */}
-
           </div>
           {/* Skills Starts */}
-
         </div>
         {/* Resume Ends */}
       </div>

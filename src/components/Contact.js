@@ -75,7 +75,7 @@ const Contact = () => {
                     {" "}
                     <span className="contact-title">email</span>
                     <i className="fa fa-envelope-o fs-14" />
-                    <span className="contact-content">info@yasitheranda.me</span>
+                    <span className="contact-content">info@yasitheranda.me / erandayapayasith@gmail.com</span>
                   </h6>
                 </li>
                 <li>

@@ -31,9 +31,7 @@ const Home = ({ leftImg, video, leftImgSrc }) => {
           <h3>Hi there !</h3>
           <AnimationText />
           <p>
-            {`I'm`} a Freelance UI/UX Designer and Developer based in Galle,
-            Sri Lanka. I strives to build immersive and beautiful web applications
-            through carefully crafted code and user-centric design.
+            An experienced creative professional in Graphic Designing, UI/UX, Motion Graphic Design, and Web Development since 2018. Dedicated to delivering innovative designs, merging creativity with technical expertise for engaging user experiences. Passionate about pushing design boundaries to create exceptional, lasting impressions.
           </p>
           <div className="call-to-actions-home">
             <div className="text-left">

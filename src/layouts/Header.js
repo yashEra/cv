@@ -18,7 +18,7 @@ const menus = [
     name: "get in touch",
     id: "contact",
   },
-  { icon: "fa fa-comments", dkMenuName: "Blog", name: "my Blog", id: "blog" },
+  { icon: "fa fa-globe", dkMenuName: "My Websites", name: "my Websites", id: "myweb" },
 ];
 
 const Header = ({ light }) => {

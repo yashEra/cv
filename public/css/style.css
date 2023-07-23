@@ -246,13 +246,13 @@ body.dark .preloader::after {
 body.dark .personal-info h6,
 body.dark .personal-info ul li span,
 body.dark .contact-container .contact .rightside h6,
-section#blog.dark  article h4,
+section#myweb.dark  article h4,
 body.blog.dark  article h4,
 body.dark .main-text h1,
 body.light.dark-header .main-text h1,
 body.dark .project-details,
-body.dark section#blog article h4,
-body.dark section#blog .meta span,
+body.dark section#myweb article h4,
+body.dark section#myweb .meta span,
 body.dark .resume-container h6,
 body.dark .resume-items .item .card-header,
 body.dark .resume-items .item a:before ,
@@ -285,7 +285,7 @@ body.dark #cd-nav ul {
   box-shadow: none !important;
 }
 
-body.dark section#blog .meta {
+body.dark section#myweb .meta {
   border-top: 1px solid #555;
   border-bottom: 1px solid #555;
 }
@@ -1892,17 +1892,17 @@ body.light .personal-info ul h6 {
 
 /*** Latest Posts ***/
 
-section#blog article {
+section#myweb article {
   position: relative;
   margin-bottom: 50px;
 }
 
-section#blog figure {
+section#myweb figure {
   margin: 0;
   position: relative;
 }
 
-section#blog figure a {
+section#myweb figure a {
   position: relative;
   display: block;
   max-width: 100%;
@@ -1910,7 +1910,7 @@ section#blog figure a {
   border-radius: 4px;
 }
 
-section#blog figure a img {
+section#myweb figure a img {
   width: 100%;
   border-radius: 4px;
   webkit-transition: all 0.5s ease;
@@ -1920,7 +1920,7 @@ section#blog figure a img {
   display: block;
 }
 
-section#blog figure a:hover img {
+section#myweb figure a:hover img {
   transform: scale(1.1) !important;
   -o-transform: scale(1.1) !important;
   -moz-transform: scale(1.1) !important;
@@ -1929,7 +1929,7 @@ section#blog figure a:hover img {
   opacity: 1 !important;
 }
 
-section#blog .post-date {
+section#myweb .post-date {
   width: 40px;
   height: 50px;
   position: absolute;
@@ -1941,22 +1941,22 @@ section#blog .post-date {
   font-family: 'Open Sans', sans-serif;
 }
 
-section#blog .post-date span {
+section#myweb .post-date span {
   display: block;
   color: #fff;
 }
 
-section#blog .post-date span:first-child {
+section#myweb .post-date span:first-child {
   font-size: 16px;
   padding-top: 1px;
 }
 
-section#blog .post-date span:nth-child(2) {
+section#myweb .post-date span:nth-child(2) {
   font-size: 12px;
   text-transform: uppercase;
 }
 
-section#blog article h4 {
+section#myweb article h4 {
   color: #555;
   text-transform: uppercase;
   font-weight: 600;
@@ -1964,17 +1964,17 @@ section#blog article h4 {
   margin: 24px 0 12px;
 }
 
-section#blog .readmore.btn {
+section#myweb .readmore.btn {
   margin: 24px 0;
 }
 
-section#blog p {
+section#myweb p {
   line-height: 2;
   font-family: 'Open Sans', sans-serif;
   margin: 0;
 }
 
-section#blog .meta {
+section#myweb .meta {
   clear: both;
   padding: 15px 0;
   width: 100%;
@@ -1983,12 +1983,12 @@ section#blog .meta {
   font-size: 14px;
 }
 
-section#blog .meta span {
+section#myweb .meta span {
   margin-right: 15px;
   display: inline-block;
 }
 
-section#blog .meta i {
+section#myweb .meta i {
   padding-right: 6px;
 }
 
@@ -2669,7 +2669,7 @@ ul.social-intro li a:hover i {
     display: none !important;
   }
 
-  section#blog .container,
+  section#myweb .container,
 .resume-container .container,
 .contact-container .container {
     padding-left: 30px;
@@ -2888,7 +2888,7 @@ ul.social-intro li a:hover i {
     font-size: 22px;
   }
 
-  section#blog .container.page-title h2 {
+  section#myweb .container.page-title h2 {
     font-size: 35px;
   }
 
@@ -2909,11 +2909,11 @@ ul.social-intro li a:hover i {
 	  display:none;
   }
 
-  section#blog article h4 {
+  section#myweb article h4 {
     font-size: 20px;
   }
 
-  section#blog article {
+  section#myweb article {
     margin-bottom: 45px;
   }
 
@@ -2937,7 +2937,7 @@ ul.social-intro li a:hover i {
     font-size: 14px;
   }
 
-  section#blog .container, .resume-container .container, .contact-container .container, .infos {
+  section#myweb .container, .resume-container .container, .contact-container .container, .infos {
     padding-left: 24px;
     padding-right: 24px;
   }
