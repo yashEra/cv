@@ -90,32 +90,32 @@ const About = () => {
                 </li>
                 <li>
                   <h6>
-                    <span className="font-weight-600">Phone</span>+94 78 855
-                    6588
+                    <span className="font-weight-600">Phone</span><a href="tel:+94788556588" style={{color:'#fffff1'}}>+94 78 855
+                    6588</a>
                   </h6>
                 </li>
                 <li>
                   <h6>
                     <span className="font-weight-600">Email</span>
-                    info@yasitheranda.me
+                    <a href="mailto:info@yasitheranda.me" style={{color:'#fffff1'}}>info@yasitheranda.me</a>
                   </h6>
                 </li>
                 <li>
                   <h6>
-                    <span className="font-weight-600">linkedin</span>
-                    yasith-eranda-yapa-amarasekara
+                    <span className="font-weight-600" >linkedin</span>
+                    <a href="https://www.linkedin.com/in/yasith-eranda-yapa-amarasekara/" style={{color:'#fffff1'}} target="blank" rel="noopener">yasith-eranda-yapa-amarasekara</a>
                   </h6>
                 </li>
                 <li>
                   <h6>
                     <span className="font-weight-600">GitHub</span>
-                    yashEra
+                    <a href="https://github.com/yashEra" style={{color:'#fffff1'}}target="blank" rel="noopener">yashEra</a>
                   </h6>
                 </li>
               </ul>
             </div>
             <div className="col-12 resume-btn-container">
-              <a href="#" className="btn btn-resume">
+              <a href="https://drive.google.com/uc?id=1wU-gwTKptnkdk5bz3o_VytBvvPdrAFfa@export=download" className="btn btn-resume">
                 <span>
                   <i className="fa fa-download" />
                   download my cv
