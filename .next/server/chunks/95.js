@@ -252,7 +252,7 @@ const About = ()=>{
                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                                     className: "col-12 resume-btn-container",
                                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                        href: "https://drive.google.com/uc?id=1wU-gwTKptnkdk5bz3o_VytBvvPdrAFfa@export=download",
+                                        href: "https://drive.google.com/uc?export=download&id=1wU-gwTKptnkdk5bz3o_VytBvvPdrAFfa",
                                         className: "btn btn-resume",
                                         children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("span", {
                                             children: [
