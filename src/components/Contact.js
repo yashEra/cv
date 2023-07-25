@@ -82,14 +82,14 @@ const Contact = () => {
                   <h6 className="font-weight-600">
                     <span className="contact-title">linkedin</span>
                     <i className="fa fa-linkedin" />
-                    <span className="contact-content">yasith-eranda-yapa-amarasekara</span>
+                    <a title="Dribbble" href="https://www.linkedin.com/in/yasith-eranda-yapa-amarasekara/" target="blank" rel="noopener" style={{color:'#fffff1'}}><span className="contact-content">yasith-eranda-yapa-amarasekara</span></a>
                   </h6>
                 </li>
                 <li>
                   <h6 className="font-weight-600">
                     <span className="contact-title">GitHub </span>
                     <i className="fa fa-github" />
-                    <span className="contact-content">yashEra</span>
+                    <a title="GitHub" href="https://github.com/yashEra" target="blank" rel="noopener" ><span className="contact-content" style={{color:'#fffff1'}}>yashEra</span></a>
                   </h6>
                 </li>
               </ul>
@@ -98,7 +98,7 @@ const Contact = () => {
                 <h6 className="font-weight-600 uppercase">Social Profiles</h6>
                 <ul className="list-inline social social-intro text-center p-none">
                   <li className="facebook">
-                    <a title="Facebook" href="https://www.facebook.com/yash.era1998/">
+                    <a title="Facebook" href="https://www.facebook.com/yash.era1998/" target="blank" rel="noopener">
                       <i className="fa fa-facebook" />
                     </a>
                   </li>
@@ -108,12 +108,12 @@ const Contact = () => {
                     </a>
                   </li>
                   <li className="youtube">
-                    <a title="Youtube" href="https://github.com/yashEra">
+                    <a title="GitHub" href="https://github.com/yashEra" target="blank" rel="noopener">
                       <i className="fa fa-github" />
                     </a>
                   </li>
                   <li className="dribbble">
-                    <a title="Dribbble" href="https://www.linkedin.com/in/yasith-eranda-yapa-amarasekara/">
+                    <a title="Dribbble" href="https://www.linkedin.com/in/yasith-eranda-yapa-amarasekara/" target="blank" rel="noopener">
                       <i className="fa fa-linkedin" />
                     </a>
                   </li>

@@ -105,9 +105,9 @@ const About = ()=>{
                                                     children: [
                                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                                             className: "font-weight-600",
-                                                            children: "Birthdate"
+                                                            children: "Date of Birthdate"
                                                         }),
-                                                        "08 july 1998"
+                                                        "08 July 1998"
                                                     ]
                                                 })
                                             }),
@@ -118,7 +118,7 @@ const About = ()=>{
                                                             className: "font-weight-600",
                                                             children: "Nationality"
                                                         }),
-                                                        "Sinhala"
+                                                        "Sri Lankan"
                                                     ]
                                                 })
                                             }),
@@ -168,9 +168,9 @@ const About = ()=>{
                                                     children: [
                                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                                             className: "font-weight-600",
-                                                            children: "Langages"
+                                                            children: "Languages"
                                                         }),
-                                                        "English/Sinhala"
+                                                        "English/ Sinhala"
                                                     ]
                                                 })
                                             }),
@@ -213,7 +213,7 @@ const About = ()=>{
                                                     children: [
                                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                                             className: "font-weight-600",
-                                                            children: "linkedin"
+                                                            children: "Linkedin"
                                                         }),
                                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
                                                             href: "https://www.linkedin.com/in/yasith-eranda-yapa-amarasekara/",
@@ -438,10 +438,7 @@ const About = ()=>{
                                                                     children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
                                                                         children: [
                                                                             "I'm",
-                                                                            " a well-experienced video editor & motion graphic designer since 2018, who pleased my clients very well. Every project I have done, I learn so much new. ",
-                                                                            "I'm",
-                                                                            " ",
-                                                                            "very happy to use them for my future projects."
+                                                                            " a well-experienced video editor & motion graphic designer since 2018, who pleased my clients very well."
                                                                         ]
                                                                     })
                                                                 })
@@ -554,7 +551,7 @@ const About = ()=>{
                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                                                                     className: "card-body",
                                                                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
-                                                                        children: "Pursuing a BIT degree at the School of Computing, University of Colombo, with a passion for technology, problem-solving, and seeking to excel in the field of computer science."
+                                                                        children: "Undergraduate of Bachelor of Information Technology, University of Colombo School of Computing"
                                                                     })
                                                                 })
                                                             ]
@@ -588,13 +585,14 @@ const About = ()=>{
                                                                         /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("span", {
                                                                             className: "d-block font-weight-400 uppercase",
                                                                             children: [
-                                                                                "GCE A/L",
+                                                                                "General Certificate of Education ",
+                                                                                "(Advanced Level)",
                                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                                                                     className: "separator"
                                                                                 }),
                                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                                                                     className: "font-weight-700",
-                                                                                    children: "Siridhamma Collage"
+                                                                                    children: "Siridhamma College, Galle"
                                                                                 })
                                                                             ]
                                                                         })
@@ -602,8 +600,12 @@ const About = ()=>{
                                                                 }),
                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                                                                     className: "card-body",
-                                                                    children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
-                                                                        children: "Completed GCE Advanced Level with a focus on Physical Science at Siridhamma College, demonstrating strong academic aptitude and a keen interest in the principles of physics and related fields."
+                                                                    children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
+                                                                        children: [
+                                                                            "Physical Science ",
+                                                                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("br", {}),
+                                                                            "(Combined Maths, Chemistry & Physics)"
+                                                                        ]
                                                                     })
                                                                 })
                                                             ]
@@ -665,7 +667,7 @@ const About = ()=>{
                                                                                 }),
                                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                                                                     className: "font-weight-700",
-                                                                                    children: "IEEE IEEE Sri Lanka Section Student Activities Committee"
+                                                                                    children: "IEEE Sri Lanka Section Student Activities Committee"
                                                                                 })
                                                                             ]
                                                                         })
@@ -930,7 +932,8 @@ const About = ()=>{
                                                                         children: [
                                                                             "As the President of the College Quiz Club at Siridhamma College, Galle, I lead the organization, oversee quiz events, and foster a competitive and intellectually stimulating environment to enhance ",
                                                                             "students'",
-                                                                            " knowledge and critical thinking skills."
+                                                                            " ",
+                                                                            "knowledge and critical thinking skills."
                                                                         ]
                                                                     })
                                                                 })
@@ -2106,9 +2109,18 @@ const Contact = ()=>{
                                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
                                                             className: "fa fa-linkedin"
                                                         }),
-                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
-                                                            className: "contact-content",
-                                                            children: "yasith-eranda-yapa-amarasekara"
+                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
+                                                            title: "Dribbble",
+                                                            href: "https://www.linkedin.com/in/yasith-eranda-yapa-amarasekara/",
+                                                            target: "blank",
+                                                            rel: "noopener",
+                                                            style: {
+                                                                color: "#fffff1"
+                                                            },
+                                                            children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
+                                                                className: "contact-content",
+                                                                children: "yasith-eranda-yapa-amarasekara"
+                                                            })
                                                         })
                                                     ]
                                                 })
@@ -2124,9 +2136,18 @@ const Contact = ()=>{
                                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
                                                             className: "fa fa-github"
                                                         }),
-                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
-                                                            className: "contact-content",
-                                                            children: "yashEra"
+                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
+                                                            title: "GitHub",
+                                                            href: "https://github.com/yashEra",
+                                                            target: "blank",
+                                                            rel: "noopener",
+                                                            children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
+                                                                className: "contact-content",
+                                                                style: {
+                                                                    color: "#fffff1"
+                                                                },
+                                                                children: "yashEra"
+                                                            })
                                                         })
                                                     ]
                                                 })
@@ -2148,6 +2169,8 @@ const Contact = ()=>{
                                                         children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
                                                             title: "Facebook",
                                                             href: "https://www.facebook.com/yash.era1998/",
+                                                            target: "blank",
+                                                            rel: "noopener",
                                                             children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
                                                                 className: "fa fa-facebook"
                                                             })
@@ -2166,8 +2189,10 @@ const Contact = ()=>{
                                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
                                                         className: "youtube",
                                                         children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                                            title: "Youtube",
+                                                            title: "GitHub",
                                                             href: "https://github.com/yashEra",
+                                                            target: "blank",
+                                                            rel: "noopener",
                                                             children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
                                                                 className: "fa fa-github"
                                                             })
@@ -2178,6 +2203,8 @@ const Contact = ()=>{
                                                         children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
                                                             title: "Dribbble",
                                                             href: "https://www.linkedin.com/in/yasith-eranda-yapa-amarasekara/",
+                                                            target: "blank",
+                                                            rel: "noopener",
                                                             children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
                                                                 className: "fa fa-linkedin"
                                                             })

@@ -51,14 +51,14 @@ const About = () => {
                 </li>
                 <li>
                   <h6>
-                    <span className="font-weight-600">Birthdate</span>08 july
-                    1998
+                    <span className="font-weight-600">Date of Birthdate</span>08
+                    July 1998
                   </h6>
                 </li>
                 <li>
                   <h6>
                     <span className="font-weight-600">Nationality</span>
-                    Sinhala
+                    Sri Lankan
                   </h6>
                 </li>
                 <li>
@@ -84,38 +84,62 @@ const About = () => {
                 </li>
                 <li>
                   <h6>
-                    <span className="font-weight-600">Langages</span>
-                    English/Sinhala
+                    <span className="font-weight-600">Languages</span>
+                    English/ Sinhala
                   </h6>
                 </li>
                 <li>
                   <h6>
-                    <span className="font-weight-600">Phone</span><a href="tel:+94788556588" style={{color:'#fffff1'}}>+94 78 855
-                    6588</a>
+                    <span className="font-weight-600">Phone</span>
+                    <a href="tel:+94788556588" style={{ color: "#fffff1" }}>
+                      +94 78 855 6588
+                    </a>
                   </h6>
                 </li>
                 <li>
                   <h6>
                     <span className="font-weight-600">Email</span>
-                    <a href="mailto:info@yasitheranda.me" style={{color:'#fffff1'}}>info@yasitheranda.me</a>
+                    <a
+                      href="mailto:info@yasitheranda.me"
+                      style={{ color: "#fffff1" }}
+                    >
+                      info@yasitheranda.me
+                    </a>
                   </h6>
                 </li>
                 <li>
                   <h6>
-                    <span className="font-weight-600" >linkedin</span>
-                    <a href="https://www.linkedin.com/in/yasith-eranda-yapa-amarasekara/" style={{color:'#fffff1'}} target="blank" rel="noopener">yasith-eranda-yapa-amarasekara</a>
+                    <span className="font-weight-600">Linkedin</span>
+                    <a
+                      href="https://www.linkedin.com/in/yasith-eranda-yapa-amarasekara/"
+                      style={{ color: "#fffff1" }}
+                      target="blank"
+                      rel="noopener"
+                    >
+                      yasith-eranda-yapa-amarasekara
+                    </a>
                   </h6>
                 </li>
                 <li>
                   <h6>
                     <span className="font-weight-600">GitHub</span>
-                    <a href="https://github.com/yashEra" style={{color:'#fffff1'}}target="blank" rel="noopener">yashEra</a>
+                    <a
+                      href="https://github.com/yashEra"
+                      style={{ color: "#fffff1" }}
+                      target="blank"
+                      rel="noopener"
+                    >
+                      yashEra
+                    </a>
                   </h6>
                 </li>
               </ul>
             </div>
             <div className="col-12 resume-btn-container">
-              <a href="https://drive.google.com/uc?export=download&id=1wU-gwTKptnkdk5bz3o_VytBvvPdrAFfa" className="btn btn-resume">
+              <a
+                href="https://drive.google.com/uc?export=download&id=1wU-gwTKptnkdk5bz3o_VytBvvPdrAFfa"
+                className="btn btn-resume"
+              >
                 <span>
                   <i className="fa fa-download" />
                   download my cv
@@ -214,8 +238,6 @@ const About = () => {
                       <p>
                         {"I'm"} a well-experienced video editor & motion graphic
                         designer since 2018, who pleased my clients very well.
-                        Every project I have done, I learn so much new. {"I'm"}{" "}
-                        very happy to use them for my future projects.
                       </p>
                     </div>
                   </div>
@@ -278,10 +300,8 @@ const About = () => {
                     </div>
                     <div className="card-body">
                       <p>
-                        Pursuing a BIT degree at the School of Computing,
-                        University of Colombo, with a passion for technology,
-                        problem-solving, and seeking to excel in the field of
-                        computer science.
+                        Undergraduate of Bachelor of Information Technology,
+                        University of Colombo School of Computing
                       </p>
                     </div>
                   </div>
@@ -298,19 +318,16 @@ const About = () => {
                         2004 - 2018
                       </span>
                       <span className="d-block font-weight-400 uppercase">
-                        GCE A/L
+                        General Certificate of Education {"(Advanced Level)"}
                         <span className="separator" />
                         <span className="font-weight-700">
-                          Siridhamma Collage
+                          Siridhamma College, Galle
                         </span>
                       </span>
                     </div>
                     <div className="card-body">
                       <p>
-                        Completed GCE Advanced Level with a focus on Physical
-                        Science at Siridhamma College, demonstrating strong
-                        academic aptitude and a keen interest in the principles
-                        of physics and related fields.
+                        Physical Science <br/>(Combined Maths, Chemistry & Physics)
                       </p>
                     </div>
                   </div>
@@ -342,8 +359,7 @@ const About = () => {
                         Creative content coodinator
                         <span className="separator" />
                         <span className="font-weight-700">
-                          IEEE IEEE Sri Lanka Section Student Activities
-                          Committee
+                          IEEE Sri Lanka Section Student Activities Committee
                         </span>
                       </span>
                     </div>
@@ -427,7 +443,7 @@ const About = () => {
                         2023 - 2024
                       </span>
                       <span className="d-block font-weight-400 uppercase">
-                        Director of Public Relation and Digital Services
+                        Director of Public Relations and Digital Services
                         <span className="separator" />
                         <span className="font-weight-700">
                           ROTARACT CLUB OF UVA WELLASSA UNIVERSITY - BADULLA
@@ -497,8 +513,8 @@ const About = () => {
                         As the President of the College Quiz Club at Siridhamma
                         College, Galle, I lead the organization, oversee quiz
                         events, and foster a competitive and intellectually
-                        stimulating environment to enhance {"students'"} knowledge
-                        and critical thinking skills.
+                        stimulating environment to enhance {"students'"}{" "}
+                        knowledge and critical thinking skills.
                       </p>
                     </div>
                   </div>
@@ -532,8 +548,8 @@ const About = () => {
                     <div className="card-body">
                       <p>
                         The Rotaract Club of Uva Wellassa University presents
-                        InovitroZ 2023, an exciting innovation program aimed
-                        at nurturing creativity and problem-solving skills among
+                        InovitroZ 2023, an exciting innovation program aimed at
+                        nurturing creativity and problem-solving skills among
                         participants
                       </p>
                     </div>
@@ -615,7 +631,10 @@ const About = () => {
                     </div>
                     <div className="card-body">
                       <p>
-                      The FOSS Community of Uva Wellassa University proudly presents Cyberzilla, the much-awaited second edition. Expect pure fun, knowledge, and exciting surprises to make this event unforgettable!
+                        The FOSS Community of Uva Wellassa University proudly
+                        presents Cyberzilla, the much-awaited second edition.
+                        Expect pure fun, knowledge, and exciting surprises to
+                        make this event unforgettable!
                       </p>
                     </div>
                   </div>
@@ -640,7 +659,9 @@ const About = () => {
                     </div>
                     <div className="card-body">
                       <p>
-                      IMPETUS magazine launch by IEEE Uva Wellassa University Student Branch, showcasing tech insights, inspiring innovation, and empowering future leaders.
+                        IMPETUS magazine launch by IEEE Uva Wellassa University
+                        Student Branch, showcasing tech insights, inspiring
+                        innovation, and empowering future leaders.
                       </p>
                     </div>
                   </div>
@@ -666,7 +687,10 @@ const About = () => {
                     </div>
                     <div className="card-body">
                       <p>
-                      As a member of the INSL 2022 Uva Provincial Competition organizing committee, I contributed to IEEE Uva Wellassa University Student {"Branch's"} successful event coordination.
+                        As a member of the INSL 2022 Uva Provincial Competition
+                        organizing committee, I contributed to IEEE Uva Wellassa
+                        University Student {"Branch's"} successful event
+                        coordination.
                       </p>
                     </div>
                   </div>
@@ -691,7 +715,10 @@ const About = () => {
                     </div>
                     <div className="card-body">
                       <p>
-                      {"IDEA'17"} was an island-wide quiz competition organized by Siridhamma College Quiz Club in 2017. It was engaging, challenging, and aimed at fostering knowledge-sharing among students.
+                        {"IDEA'17"} was an island-wide quiz competition
+                        organized by Siridhamma College Quiz Club in 2017. It
+                        was engaging, challenging, and aimed at fostering
+                        knowledge-sharing among students.
                       </p>
                     </div>
                   </div>
