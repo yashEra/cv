@@ -774,7 +774,7 @@ const About = ()=>{
                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                                                                     className: "card-body",
                                                                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
-                                                                        children: "As an Assistant Editor for the IEEE Uva Wellassa University Student Branch, your role involves contributing to the planning, production, and editing of various publications and communication materials related to IEEE activities and events."
+                                                                        children: "As an Assistant Editor for the IEEE Uva Wellassa University Student Branch, my role involves contributing to the planning, production, and editing of various publications and communication materials related to IEEE activities and events."
                                                                     })
                                                                 })
                                                             ]
@@ -808,7 +808,7 @@ const About = ()=>{
                                                                         /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("span", {
                                                                             className: "d-block font-weight-400 uppercase",
                                                                             children: [
-                                                                                "Director of Public Relation and Digital Services",
+                                                                                "Director of Public Relations and Digital Services",
                                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                                                                     className: "separator"
                                                                                 }),
@@ -920,7 +920,7 @@ const About = ()=>{
                                                                                 }),
                                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                                                                     className: "font-weight-700",
-                                                                                    children: "Siridhamma Collage Galle"
+                                                                                    children: "Siridhamma College Galle"
                                                                                 })
                                                                             ]
                                                                         })
@@ -982,6 +982,55 @@ const About = ()=>{
                                                                         /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("span", {
                                                                             className: "d-block font-weight-400 uppercase",
                                                                             children: [
+                                                                                "Lead",
+                                                                                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
+                                                                                    className: "separator"
+                                                                                }),
+                                                                                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
+                                                                                    className: "font-weight-700",
+                                                                                    children: "Rotaract Official Web Designing Team"
+                                                                                })
+                                                                            ]
+                                                                        })
+                                                                    ]
+                                                                }),
+                                                                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+                                                                    className: "card-body",
+                                                                    children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
+                                                                        children: "Lead of the Official Web Designing Project of Rotaract Club of Uva Wellassa University."
+                                                                    })
+                                                                })
+                                                            ]
+                                                        })
+                                                    ]
+                                                }),
+                                                /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
+                                                    className: "item",
+                                                    children: [
+                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
+                                                            className: "bullet"
+                                                        }),
+                                                        /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
+                                                            className: "card",
+                                                            children: [
+                                                                /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
+                                                                    className: "card-header",
+                                                                    children: [
+                                                                        /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("span", {
+                                                                            className: "year",
+                                                                            children: [
+                                                                                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
+                                                                                    className: "fa fa-calendar"
+                                                                                }),
+                                                                                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
+                                                                                    className: "fa fa-caret-right"
+                                                                                }),
+                                                                                "2023"
+                                                                            ]
+                                                                        }),
+                                                                        /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("span", {
+                                                                            className: "d-block font-weight-400 uppercase",
+                                                                            children: [
                                                                                 "Project Chair",
                                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                                                                     className: "separator"
@@ -997,7 +1046,7 @@ const About = ()=>{
                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                                                                     className: "card-body",
                                                                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
-                                                                        children: "The Rotaract Club of Uva Wellassa University presents InovitroZ 2023, an exciting innovation program aimed at nurturing creativity and problem-solving skills among participants"
+                                                                        children: "Project Chair of InovitroZ 2023, an innovation focused session series, organized by the Rotaract Club of Uva Wellassa University."
                                                                     })
                                                                 })
                                                             ]
@@ -1046,7 +1095,7 @@ const About = ()=>{
                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                                                                     className: "card-body",
                                                                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
-                                                                        children: "IEEE Open Day 2023, organized by the IEEE Student Branch of Uva Wellassa University, offers a platform for aspiring technology enthusiasts to come together, learn, collaborate, and shape the future."
+                                                                        children: "Organizing committee member of the IEEE Open Day 2023, organized by the IEEE Student Branch of Uva Wellassa University."
                                                                     })
                                                                 })
                                                             ]
@@ -1095,7 +1144,7 @@ const About = ()=>{
                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                                                                     className: "card-body",
                                                                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
-                                                                        children: "The LAN Challenge is an annual gaming extravaganza, commemorating its fifth chapter in the year 2023. It is organized by the students of the Computer Science and Technology (CST) degree program within the Department of Computer Science and Informatics, Faculty of Applied Sciences, at Uva Wellassa University."
+                                                                        children: "Organizing committee member of the CST LAN Challenge - 2023, the annual gaming extravaganza, organized by the students of the Computer Science and Technology (CST) degree program, Department of Computer Science and Informatics, Faculty of Applied Sciences at Uva Wellassa University."
                                                                     })
                                                                 })
                                                             ]
@@ -1144,7 +1193,7 @@ const About = ()=>{
                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                                                                     className: "card-body",
                                                                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
-                                                                        children: "The FOSS Community of Uva Wellassa University proudly presents Cyberzilla, the much-awaited second edition. Expect pure fun, knowledge, and exciting surprises to make this event unforgettable!"
+                                                                        children: "Organizing committee member of CYBERZILLA 2.0, organized by the FOSS Community of Uva Wellassa University."
                                                                     })
                                                                 })
                                                             ]
@@ -1192,8 +1241,11 @@ const About = ()=>{
                                                                 }),
                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                                                                     className: "card-body",
-                                                                    children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
-                                                                        children: "IMPETUS magazine launch by IEEE Uva Wellassa University Student Branch, showcasing tech insights, inspiring innovation, and empowering future leaders."
+                                                                    children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
+                                                                        children: [
+                                                                            "'IMPETUS'",
+                                                                            ", a tech focused magazine launched by IEEE Uva Wellassa University Student Branch, showcasing tech insights, inspiring innovation, and empowering future leaders."
+                                                                        ]
                                                                     })
                                                                 })
                                                             ]
@@ -1241,12 +1293,8 @@ const About = ()=>{
                                                                 }),
                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                                                                     className: "card-body",
-                                                                    children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
-                                                                        children: [
-                                                                            "As a member of the INSL 2022 Uva Provincial Competition organizing committee, I contributed to IEEE Uva Wellassa University Student ",
-                                                                            "Branch's",
-                                                                            " successful event coordination."
-                                                                        ]
+                                                                    children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
+                                                                        children: "Organizing committee member of the INSL 2022 Uva Provincial Competition, organized by IEEE Innovation Nation Sri Lanka."
                                                                     })
                                                                 })
                                                             ]
@@ -1300,7 +1348,7 @@ const About = ()=>{
                                                                     children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
                                                                         children: [
                                                                             "IDEA'17",
-                                                                            " was an island-wide quiz competition organized by Siridhamma College Quiz Club in 2017. It was engaging, challenging, and aimed at fostering knowledge-sharing among students."
+                                                                            ", an island-wide quiz competition organized by Siridhamma College Quiz Club in 2017."
                                                                         ]
                                                                     })
                                                                 })

@@ -327,7 +327,8 @@ const About = () => {
                     </div>
                     <div className="card-body">
                       <p>
-                        Physical Science <br/>(Combined Maths, Chemistry & Physics)
+                        Physical Science <br />
+                        (Combined Maths, Chemistry & Physics)
                       </p>
                     </div>
                   </div>
@@ -423,10 +424,10 @@ const About = () => {
                     <div className="card-body">
                       <p>
                         As an Assistant Editor for the IEEE Uva Wellassa
-                        University Student Branch, your role involves
-                        contributing to the planning, production, and editing of
-                        various publications and communication materials related
-                        to IEEE activities and events.
+                        University Student Branch, my role involves contributing
+                        to the planning, production, and editing of various
+                        publications and communication materials related to IEEE
+                        activities and events.
                       </p>
                     </div>
                   </div>
@@ -504,7 +505,7 @@ const About = () => {
                         President of College Quiz Club
                         <span className="separator" />
                         <span className="font-weight-700">
-                          Siridhamma Collage Galle
+                          Siridhamma College Galle
                         </span>
                       </span>
                     </div>
@@ -540,6 +541,33 @@ const About = () => {
                         2023
                       </span>
                       <span className="d-block font-weight-400 uppercase">
+                        Lead
+                        <span className="separator" />
+                        <span className="font-weight-700">
+                          Rotaract Official Web Designing Team
+                        </span>
+                      </span>
+                    </div>
+                    <div className="card-body">
+                      <p>
+                        Lead of the Official Web Designing Project of Rotaract
+                        Club of Uva Wellassa University.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                {/* Item Ends */}
+                {/* Item Starts */}
+                <div className="item">
+                  <span className="bullet" />
+                  <div className="card">
+                    <div className="card-header">
+                      <span className="year">
+                        <i className="fa fa-calendar" />
+                        <i className="fa fa-caret-right" />
+                        2023
+                      </span>
+                      <span className="d-block font-weight-400 uppercase">
                         Project Chair
                         <span className="separator" />
                         <span className="font-weight-700">InovitroZ</span>
@@ -547,10 +575,9 @@ const About = () => {
                     </div>
                     <div className="card-body">
                       <p>
-                        The Rotaract Club of Uva Wellassa University presents
-                        InovitroZ 2023, an exciting innovation program aimed at
-                        nurturing creativity and problem-solving skills among
-                        participants
+                        Project Chair of InovitroZ 2023, an innovation focused
+                        session series, organized by the Rotaract Club of Uva
+                        Wellassa University.
                       </p>
                     </div>
                   </div>
@@ -574,10 +601,9 @@ const About = () => {
                     </div>
                     <div className="card-body">
                       <p>
-                        IEEE Open Day 2023, organized by the IEEE Student Branch
-                        of Uva Wellassa University, offers a platform for
-                        aspiring technology enthusiasts to come together, learn,
-                        collaborate, and shape the future.
+                        Organizing committee member of the IEEE Open Day 2023,
+                        organized by the IEEE Student Branch of Uva Wellassa
+                        University.
                       </p>
                     </div>
                   </div>
@@ -603,12 +629,12 @@ const About = () => {
                     </div>
                     <div className="card-body">
                       <p>
-                        The LAN Challenge is an annual gaming extravaganza,
-                        commemorating its fifth chapter in the year 2023. It is
-                        organized by the students of the Computer Science and
-                        Technology (CST) degree program within the Department of
-                        Computer Science and Informatics, Faculty of Applied
-                        Sciences, at Uva Wellassa University.
+                        Organizing committee member of the CST LAN Challenge -
+                        2023, the annual gaming extravaganza, organized by the
+                        students of the Computer Science and Technology (CST)
+                        degree program, Department of Computer Science and
+                        Informatics, Faculty of Applied Sciences at Uva Wellassa
+                        University.
                       </p>
                     </div>
                   </div>
@@ -631,10 +657,8 @@ const About = () => {
                     </div>
                     <div className="card-body">
                       <p>
-                        The FOSS Community of Uva Wellassa University proudly
-                        presents Cyberzilla, the much-awaited second edition.
-                        Expect pure fun, knowledge, and exciting surprises to
-                        make this event unforgettable!
+                        Organizing committee member of CYBERZILLA 2.0, organized
+                        by the FOSS Community of Uva Wellassa University.
                       </p>
                     </div>
                   </div>
@@ -659,9 +683,10 @@ const About = () => {
                     </div>
                     <div className="card-body">
                       <p>
-                        IMPETUS magazine launch by IEEE Uva Wellassa University
-                        Student Branch, showcasing tech insights, inspiring
-                        innovation, and empowering future leaders.
+                        {"'IMPETUS'"}, a tech focused magazine launched by IEEE Uva
+                        Wellassa University Student Branch, showcasing tech
+                        insights, inspiring innovation, and empowering future
+                        leaders.
                       </p>
                     </div>
                   </div>
@@ -687,10 +712,9 @@ const About = () => {
                     </div>
                     <div className="card-body">
                       <p>
-                        As a member of the INSL 2022 Uva Provincial Competition
-                        organizing committee, I contributed to IEEE Uva Wellassa
-                        University Student {"Branch's"} successful event
-                        coordination.
+                        Organizing committee member of the INSL 2022 Uva
+                        Provincial Competition, organized by IEEE Innovation
+                        Nation Sri Lanka.
                       </p>
                     </div>
                   </div>
@@ -715,10 +739,8 @@ const About = () => {
                     </div>
                     <div className="card-body">
                       <p>
-                        {"IDEA'17"} was an island-wide quiz competition
-                        organized by Siridhamma College Quiz Club in 2017. It
-                        was engaging, challenging, and aimed at fostering
-                        knowledge-sharing among students.
+                        {"IDEA'17"}, an island-wide quiz competition organized
+                        by Siridhamma College Quiz Club in 2017.
                       </p>
                     </div>
                   </div>
