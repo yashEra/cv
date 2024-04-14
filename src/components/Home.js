@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import Poster from "../../public/img/bg-video-poster.jpg";
+// import Poster from "../../public/img/bg-video-poster.jpg";
 import NavContext from "../context/navContext";
 import AnimationText from "./AnimationText";
 const Home = ({ leftImg, video, leftImgSrc }) => {
@@ -9,7 +9,7 @@ const Home = ({ leftImg, video, leftImgSrc }) => {
       {/* Text Rotator Starts */}
       <div className="main-text-container">
         {video && (
-          <video className="bg-video" autoPlay loop muted poster={Poster}>
+          <video className="bg-video" autoPlay loop muted poster="img/bg-video-poster.jpg">
             <source
               src={require("../../public/img/video.mp4")}
               type="video/mp4"
