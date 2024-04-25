@@ -100,7 +100,7 @@ const About = () => {
                   <h6>
                     <span className="font-weight-600">Email</span>
                     <a
-                      href="mailto:info@yasitheranda.me"
+                      href="mailto:ya794120@gmail.com"
                       style={{ color: "#fffff1" }}
                     >
                       info@yasitheranda.me
@@ -111,12 +111,12 @@ const About = () => {
                   <h6>
                     <span className="font-weight-600">Linkedin</span>
                     <a
-                      href="https://www.linkedin.com/in/yasith-eranda-yapa-amarasekara/"
+                      href="https://www.linkedin.com/in/yasitheranda/"
                       style={{ color: "#fffff1" }}
                       target="blank"
                       rel="noopener"
                     >
-                      yasith-eranda-yapa-amarasekara
+                      yasitheranda
                     </a>
                   </h6>
                 </li>
@@ -137,7 +137,7 @@ const About = () => {
             </div>
             <div className="col-12 resume-btn-container">
               <a
-                href="https://drive.google.com/uc?export=download&id=1wU-gwTKptnkdk5bz3o_VytBvvPdrAFfa"
+                href="/cv/yasith-eranda-cv.pdf/"
                 className="btn btn-resume"
               >
                 <span>
